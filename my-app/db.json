@@ -1,0 +1,34 @@
+{
+    "posts":[
+        {
+            "id":"1",
+            "title":"Post One",
+            "body":"This is first body",
+            "published":"10-01-2020"
+        },
+        {
+            "id":"2",
+            "title":"Post Two",
+            "body":"This is first body",
+            "published":"10-01-2020"
+        },
+        {
+            "id":"3",
+            "title":"Post Three",
+            "body":"This is first body",
+            "published":"10-01-2020"
+        }
+    ],
+    "users":[
+        {
+            "id":"1",
+            "name":"Abhay",
+            "email":"abhay123@gmail.com"
+        },
+        {
+            "id":"2",
+            "name":"Pratyush",
+            "email":"pratyush123@gmail.com"
+        }
+    ]
+}
